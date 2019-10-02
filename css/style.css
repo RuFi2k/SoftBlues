@@ -229,6 +229,10 @@ h3{
         padding: 5px 0px;
         border-bottom: 1px solid #f0f0f0;
     }
+
+    .menu-item a{
+        padding: 5px;
+    }
 }
 
 @media screen and (max-width: 600px){
